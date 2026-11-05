@@ -2,7 +2,7 @@
 .env.*
 !.env.example
 .env.example
-.temp
+    
 
 __pycache__/
 *.pyc
@@ -16,4 +16,7 @@ build/
 
 *.log
 
+
 .DS_Store
+.tmp/
+tmp/
